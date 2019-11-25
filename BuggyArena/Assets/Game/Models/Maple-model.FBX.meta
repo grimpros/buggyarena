@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: bf0e7154533c4457989f3437d2abe15c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Yellow Maple
+    100002: //RootNode
+    100004: Yellow Maple Footsteps
+    100006: Yellow Maple Head
+    100008: Yellow Maple HeadNub
+    100010: Yellow Maple L Calf
+    100012: Yellow Maple L Clavicle
+    100014: Yellow Maple L Finger0
+    100016: Yellow Maple L Finger0Nub
+    100018: Yellow Maple L Foot
+    100020: Yellow Maple L Forearm
+    100022: Yellow Maple L Hand
+    100024: Yellow Maple L Thigh
+    100026: Yellow Maple L Toe0
+    100028: Yellow Maple L Toe0Nub
+    100030: Yellow Maple L UpperArm
+    100032: Yellow Maple Neck
+    100034: Yellow Maple Pelvis
+    100036: Yellow Maple Ponytail1
+    100038: Yellow Maple Ponytail11
+    100040: Yellow Maple Ponytail12
+    100042: Yellow Maple Ponytail13
+    100044: Yellow Maple Ponytail14
+    100046: Yellow Maple Ponytail15
+    100048: Yellow Maple Ponytail16
+    100050: Yellow Maple Ponytail17
+    100052: Yellow Maple Ponytail18
+    100054: Yellow Maple Ponytail1Nub
+    100056: Yellow Maple R Calf
+    100058: Yellow Maple R Clavicle
+    100060: Yellow Maple R Finger0
+    100062: Yellow Maple R Finger0Nub
+    100064: Yellow Maple R Foot
+    100066: Yellow Maple R Forearm
+    100068: Yellow Maple R Hand
+    100070: Yellow Maple R Thigh
+    100072: Yellow Maple R Toe0
+    100074: Yellow Maple R Toe0Nub
+    100076: Yellow Maple R UpperArm
+    100078: Yellow Maple Root
+    100080: Yellow Maple Spine
+    100082: Yellow Maple Spine1
+    400000: Yellow Maple
+    400002: //RootNode
+    400004: Yellow Maple Footsteps
+    400006: Yellow Maple Head
+    400008: Yellow Maple HeadNub
+    400010: Yellow Maple L Calf
+    400012: Yellow Maple L Clavicle
+    400014: Yellow Maple L Finger0
+    400016: Yellow Maple L Finger0Nub
+    400018: Yellow Maple L Foot
+    400020: Yellow Maple L Forearm
+    400022: Yellow Maple L Hand
+    400024: Yellow Maple L Thigh
+    400026: Yellow Maple L Toe0
+    400028: Yellow Maple L Toe0Nub
+    400030: Yellow Maple L UpperArm
+    400032: Yellow Maple Neck
+    400034: Yellow Maple Pelvis
+    400036: Yellow Maple Ponytail1
+    400038: Yellow Maple Ponytail11
+    400040: Yellow Maple Ponytail12
+    400042: Yellow Maple Ponytail13
+    400044: Yellow Maple Ponytail14
+    400046: Yellow Maple Ponytail15
+    400048: Yellow Maple Ponytail16
+    400050: Yellow Maple Ponytail17
+    400052: Yellow Maple Ponytail18
+    400054: Yellow Maple Ponytail1Nub
+    400056: Yellow Maple R Calf
+    400058: Yellow Maple R Clavicle
+    400060: Yellow Maple R Finger0
+    400062: Yellow Maple R Finger0Nub
+    400064: Yellow Maple R Foot
+    400066: Yellow Maple R Forearm
+    400068: Yellow Maple R Hand
+    400070: Yellow Maple R Thigh
+    400072: Yellow Maple R Toe0
+    400074: Yellow Maple R Toe0Nub
+    400076: Yellow Maple R UpperArm
+    400078: Yellow Maple Root
+    400080: Yellow Maple Spine
+    400082: Yellow Maple Spine1
+    2100000: 02 - Default
+    4300000: Yellow Maple
+    7400000: walk
+    7400002: jump
+    7400004: action
+    7400006: idle
+    9500000: //RootNode
+    13700000: Yellow Maple
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: Take 001
+      firstFrame: 52
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: action
+      takeName: Take 001
+      firstFrame: 190
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
